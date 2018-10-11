@@ -5,6 +5,6 @@ import (
 )
 
 func  Name() string {
-    name := "modder"
+    name := "modder."
     return name
 }

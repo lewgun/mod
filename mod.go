@@ -5,5 +5,7 @@ import (
 )
 
 func  Name() string {
-    fmt.Println("my name is mod")
+    name := "modder"
+    fmt.Println(name)
+    return name
 }

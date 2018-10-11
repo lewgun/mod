@@ -2,6 +2,6 @@ package mod
 
 
 func  Name() string {
-    name := "modder."
+    name := "modder.v3"
     return name
 }
